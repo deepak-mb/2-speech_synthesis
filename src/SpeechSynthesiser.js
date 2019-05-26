@@ -73,9 +73,9 @@ class SpeechSynthesiser extends Component {
     speech
       .init()
       .then(data => {
-        // console.log(data.voices);
+        console.log(data.voices);
         const voices = data.voices;
-        for (let i = 1; i < data.voices.length; i++) {
+        for (let i = 0; i < data.voices.length; i++) {
           var option = document.createElement("option");
           option.text = voices[i].name;
           option.value = i;
