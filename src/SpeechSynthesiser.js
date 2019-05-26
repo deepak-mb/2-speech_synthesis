@@ -6,7 +6,7 @@ class SpeechSynthesiser extends Component {
   state = {
     textInput: "",
     pitchValue: "1",
-    rateValue: "1",
+    rateValue: "0.9",
     dataLang: "en-US"
   };
   onChange = e => {
@@ -73,7 +73,7 @@ class SpeechSynthesiser extends Component {
     speech
       .init()
       .then(data => {
-        console.log(data.voices);
+        // console.log(data.voices);
         const voices = data.voices;
         for (let i = 0; i < data.voices.length; i++) {
           var option = document.createElement("option");
@@ -92,7 +92,7 @@ class SpeechSynthesiser extends Component {
     return (
       <div className="App container text-center py-3">
         <h1>Speech synthesiser</h1>
-        <p className="my-5">
+        <p className="my-3">
           Enter some text in the input below and press return or the "play"
           button to hear it. change voices using the dropdown menu.
         </p>
