@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/2-speech_synthesis/static/css/main.5facb584.chunk.css",
-    "main.js": "/2-speech_synthesis/static/js/main.514e3fbd.chunk.js",
-    "main.js.map": "/2-speech_synthesis/static/js/main.514e3fbd.chunk.js.map",
+    "main.js": "/2-speech_synthesis/static/js/main.542080a0.chunk.js",
+    "main.js.map": "/2-speech_synthesis/static/js/main.542080a0.chunk.js.map",
     "runtime~main.js": "/2-speech_synthesis/static/js/runtime~main.a258bef4.js",
     "runtime~main.js.map": "/2-speech_synthesis/static/js/runtime~main.a258bef4.js.map",
     "static/js/2.9141f8de.chunk.js": "/2-speech_synthesis/static/js/2.9141f8de.chunk.js",
     "static/js/2.9141f8de.chunk.js.map": "/2-speech_synthesis/static/js/2.9141f8de.chunk.js.map",
     "index.html": "/2-speech_synthesis/index.html",
-    "precache-manifest.f02239d6d62d95dcba061d84a19f5698.js": "/2-speech_synthesis/precache-manifest.f02239d6d62d95dcba061d84a19f5698.js",
+    "precache-manifest.820a8a94ac0327b74e319121c394d758.js": "/2-speech_synthesis/precache-manifest.820a8a94ac0327b74e319121c394d758.js",
     "service-worker.js": "/2-speech_synthesis/service-worker.js",
     "static/css/main.5facb584.chunk.css.map": "/2-speech_synthesis/static/css/main.5facb584.chunk.css.map"
   }
