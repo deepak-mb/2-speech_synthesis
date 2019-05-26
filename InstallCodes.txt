@@ -1,0 +1,8 @@
+Bootstrap:
+npm install react-bootstrap bootstrap
+
+Axios:
+npm install axios
+
+Classnames:
+npm install classnames --save
