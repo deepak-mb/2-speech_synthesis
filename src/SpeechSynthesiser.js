@@ -91,7 +91,7 @@ class SpeechSynthesiser extends Component {
     const { pitchValue, rateValue, textInput } = this.state;
     return (
       <div className="App container text-center py-3">
-        <h1>Speech synthesiser</h1>
+        <h1>Text to Speech</h1>
         <p className="my-3">
           Enter some text in the input below and press return or the "play"
           button to hear it. change voices using the dropdown menu.
