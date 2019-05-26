@@ -2,7 +2,7 @@
   "name": "react-boiler-plate",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://deepak-mb.github.io/1-weather_app",
+  "homepage": "https://deepak-mb.github.io/2-speech_synthesis",
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.3.1",
